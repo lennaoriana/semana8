@@ -69,7 +69,7 @@ Las coerciones no pueden ocurrir en orden inverso.
 
 ## Verificar un tipo de dato
 
-Para este fin podemos usar la función class() de R.Esto es de utilidad
+Para este fin podemos usar la función class() de R. Esto es de utilidad
 para asegurarnos que las operaciones que deseamos realizar tendrán los
 datos apropiados para llevarse a cabo con éxito.
 
@@ -154,7 +154,7 @@ Los operadores “\|” y “&” siguen estas reglas:
 
 Las estructuras de datos son objetos que contienen datos. Tienen
 diferentes características entre ellas son: su número de **dimensiones**
-y si son **homogéneas** o **heterogénea**.
+y si son **homogéneas** o **heterogéneas**.
 
 <img src="figuras/estructuraDatos.PNG" width="80%" style="display: block; margin: auto;" />
 
